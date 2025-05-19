@@ -1,5 +1,5 @@
-# LSH-Blog TEST :link: https://lsh2024elijah.github.io/SF-aniTEST.github.io 
-### :page_facing_up: [1](https://lsh2024elijah.github.io/SF-aniTEST.github.io/tag.html) 
+# LSH-Blog TEST :link: https://blog.lsh2025.dpdns.org/ 
+### :page_facing_up: [1](https://blog.lsh2025.dpdns.org/) 
 ### :speech_balloon: 0 
 ### :hibiscus: 38 
 ### :alarm_clock: 2025-05-19 19:45:06 
